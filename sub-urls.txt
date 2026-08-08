@@ -1,6 +1,5 @@
-# sub-urls 订阅源清单 —— 由 WorkBuddy 自动维护
-# 更新时间见 git commit；sub-check 每轮检测自动拉取本文件
-
+# sub-urls 订阅源清单 —— HPNAs 定时自动维护
+# 更新: 2026-08-08 15:16:29
 https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/server.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/clashmeta.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/ndnode.txt
@@ -124,4 +123,14 @@ https://raw.githubusercontent.com/lerjtl/Testfree/main/README.md
 https://raw.githubusercontent.com/Mokafela/Co-Killer/master/sub.txt
 https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/mix.txt
 https://raw.githubusercontent.com/Hidashimora/free-vpn-anti-rkn/main/configs/1.14.txt
-# github-backup-enabled
+https://raw.githubusercontent.com/FreeFolksOn/abc-configs-free-vpn-proxy-list-for-iran/main/README.md
+https://raw.githubusercontent.com/FreeFolksOn/abc-configs-free-vpn-proxy-list-for-romania/main/README.md
+https://raw.githubusercontent.com/FreeFolksOn/abc-configs-free-vpn-proxy-list-for-arab/main/README.md
+https://raw.githubusercontent.com/FreeFolksOn/abc-configs-free-vpn-proxy-list/main/README.md
+https://raw.githubusercontent.com/FreeFolksOn/abc-configs-free-vpn-proxy-list-for-russia/main/README.md
+https://raw.githubusercontent.com/FreeFolksOn/abc-configs-free-vpn-proxy-list-for-china/main/README.md
+https://raw.githubusercontent.com/junjun266/FreeProxyGo/main/README.md
+https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/nodes.txt
+https://raw.githubusercontent.com/cbusifabcap/daily_free_vpn/main/README.md
+https://raw.githubusercontent.com/gfpcom/free-proxy-list/main/README.md
+https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/main/clash.yaml
