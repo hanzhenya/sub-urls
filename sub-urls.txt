@@ -1,5 +1,5 @@
 # sub-urls 订阅源清单 —— HPNAs 定时自动维护
-# 更新: 2026-08-21 03:23:47
+# 更新: 2026-08-24 03:26:46
 https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/server.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/clashmeta.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/ndnode.txt
@@ -13,7 +13,6 @@ https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_base6
 https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/ss.txt
 https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/trojan.txt
 https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vless.txt
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vmess.txt
 https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Sub1.txt
 https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Sub2.txt
 https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Sub3.txt
@@ -123,12 +122,6 @@ https://raw.githubusercontent.com/lerjtl/Testfree/main/README.md
 https://raw.githubusercontent.com/Mokafela/Co-Killer/master/sub.txt
 https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/mix.txt
 https://raw.githubusercontent.com/Hidashimora/free-vpn-anti-rkn/main/configs/1.14.txt
-https://raw.githubusercontent.com/FreeFolksOn/abc-configs-free-vpn-proxy-list-for-iran/main/README.md
-https://raw.githubusercontent.com/FreeFolksOn/abc-configs-free-vpn-proxy-list-for-romania/main/README.md
-https://raw.githubusercontent.com/FreeFolksOn/abc-configs-free-vpn-proxy-list-for-arab/main/README.md
-https://raw.githubusercontent.com/FreeFolksOn/abc-configs-free-vpn-proxy-list/main/README.md
-https://raw.githubusercontent.com/FreeFolksOn/abc-configs-free-vpn-proxy-list-for-russia/main/README.md
-https://raw.githubusercontent.com/FreeFolksOn/abc-configs-free-vpn-proxy-list-for-china/main/README.md
 https://raw.githubusercontent.com/junjun266/FreeProxyGo/main/README.md
 https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/nodes.txt
 https://raw.githubusercontent.com/cbusifabcap/daily_free_vpn/main/README.md
@@ -146,3 +139,5 @@ https://raw.githubusercontent.com/free-nodes/v2rayfree/main/README.md
 https://raw.githubusercontent.com/free-nodes/v2rayfree/main/sub
 https://raw.githubusercontent.com/jifeng250/free-nodes/main/clash.yaml
 https://raw.githubusercontent.com/share-daily/node/main/clash.yaml
+https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/clash.yaml
+https://raw.githubusercontent.com/freeVpnMan/top-free-vpn-proxy-list/main/README.md
