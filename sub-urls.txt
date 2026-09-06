@@ -1,5 +1,5 @@
 # sub-urls 订阅源清单 —— HPNAs 定时自动维护
-# 更新: 2026-09-04 03:28:29
+# 更新: 2026-09-07 03:30:40
 https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/server.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/clashmeta.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/ndnode.txt
@@ -97,7 +97,6 @@ https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.meta.yml
 https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt
 https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.yml
 https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/snippets/nodes.meta.yml
-https://raw.githubusercontent.com/qjlxg/aggregator/main/data/clash.yaml
 https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
 https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt
 https://raw.githubusercontent.com/shahidbhutta/Clash/main/Router
@@ -121,7 +120,6 @@ https://raw.githubusercontent.com/penhandev/AutoAiVPN/main/allConfigs.txt
 https://raw.githubusercontent.com/lerjtl/Testfree/main/README.md
 https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/mix.txt
 https://raw.githubusercontent.com/Hidashimora/free-vpn-anti-rkn/main/configs/1.14.txt
-https://raw.githubusercontent.com/junjun266/FreeProxyGo/main/README.md
 https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/nodes.txt
 https://raw.githubusercontent.com/cbusifabcap/daily_free_vpn/main/README.md
 https://raw.githubusercontent.com/gfpcom/free-proxy-list/main/README.md
