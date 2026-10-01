@@ -1,5 +1,5 @@
 # sub-urls 订阅源清单 —— HPNAs 定时自动维护
-# 更新: 2026-09-25 03:45:17
+# 更新: 2026-10-02 03:32:27
 https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/server.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/clashmeta.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/ndnode.txt
@@ -144,8 +144,10 @@ https://raw.githubusercontent.com/liketolivefree/kobabi/main/sub.txt
 https://raw.githubusercontent.com/oversizexl/FreeSubsCheck/main/all.yaml
 https://raw.githubusercontent.com/oversizexl/FreeSubsCheck/main/base64.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/README.md
-https://raw.githubusercontent.com/alexantSWE/V2ray-Config/main/All_Configs_Sub.txt
 https://raw.githubusercontent.com/junjun266/FreeProxyGo/main/README.md
 https://raw.githubusercontent.com/446599/ccodex-rotate/master/README.md
 https://raw.githubusercontent.com/xiaohuozi248/free-node-config/main/clash.yaml
 https://raw.githubusercontent.com/Reality-JH/CodexOrbit/master/README.md
+https://raw.githubusercontent.com/vincent20240707/free-v2ray-nodes/main/nodes.txt
+https://raw.githubusercontent.com/freeb5d/kite/main/README.md
+https://raw.githubusercontent.com/freeb5d/kite-android/main/README.md
