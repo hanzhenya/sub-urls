@@ -1,5 +1,5 @@
 # sub-urls 订阅源清单 —— HPNAs 定时自动维护
-# 更新: 2026-10-05 03:27:20
+# 更新: 2026-10-09 04:11:30
 https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/server.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/clashmeta.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/ndnode.txt
@@ -39,7 +39,6 @@ https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml
 https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config.yaml
 https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config_extra.yaml
 https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config_extra_US.yaml
-https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt
 https://raw.githubusercontent.com/ZywChannel/free/main/sub
 https://raw.githubusercontent.com/actionsfz/v2ray/master/all.yaml
 https://raw.githubusercontent.com/actionsfz/v2ray/refs/heads/master/all.yaml
