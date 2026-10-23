@@ -1,5 +1,5 @@
 # sub-urls 订阅源清单 —— HPNAs 定时自动维护
-# 更新: 2026-10-19 03:07:09
+# 更新: 2026-10-23 08:22:54
 https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/server.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/clashmeta.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/ndnode.txt
@@ -151,7 +151,20 @@ https://raw.githubusercontent.com/freeb5d/kite/main/README.md
 https://raw.githubusercontent.com/freeb5d/kite-android/main/README.md
 https://raw.githubusercontent.com/mmkeshavarzz/v2ray-configs/main/sub.txt
 https://raw.githubusercontent.com/v2raynnodes/clashfree/main/README.md
-https://raw.githubusercontent.com/v2raynnodes/clashfree/main/clash.yaml
 https://raw.githubusercontent.com/gentslava/submerge/master/README.md
 https://raw.githubusercontent.com/xifan001-lab/clash-sub/main/clash.yaml
 https://raw.githubusercontent.com/YawStar/Proxy-Hunter/main/README.md
+https://raw.githubusercontent.com/Andrejewild/hiddify-singbox-configs-ru/main/README.md
+https://raw.githubusercontent.com/Andrejewild/hiddify-singbox-configs-ru/main/sub.txt
+https://raw.githubusercontent.com/Andrejewild/happ-v2rayng-configs/main/README.md
+https://raw.githubusercontent.com/Andrejewild/happ-v2rayng-configs/main/sub.txt
+https://raw.githubusercontent.com/nodesradar/nodesradar-es/main/README.md
+https://raw.githubusercontent.com/nodesradar/nodesradar-my/main/README.md
+https://raw.githubusercontent.com/nodesradar/nodesradar-id/main/README.md
+https://raw.githubusercontent.com/nodesradar/nodesradar-vi/main/README.md
+https://raw.githubusercontent.com/nodesradar/nodesradar-ur/main/README.md
+https://raw.githubusercontent.com/nodesradar/nodesradar-ar/main/README.md
+https://raw.githubusercontent.com/nodesradar/nodesradar-tr/main/README.md
+https://raw.githubusercontent.com/nodesradar/nodesradar-ru/main/README.md
+https://raw.githubusercontent.com/nodesradar/nodesradar-fa/main/README.md
+https://raw.githubusercontent.com/nodesradar/nodesradar-en/main/README.md
