@@ -1,5 +1,5 @@
 # sub-urls 订阅源清单 —— HPNAs 定时自动维护
-# 更新: 2026-10-30 03:27:46
+# 更新: 2026-11-02 03:27:28
 https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/server.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/clashmeta.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/nodev2ray.txt
@@ -26,8 +26,6 @@ https://raw.githubusercontent.com/ZywChannel/free/main/sub
 https://raw.githubusercontent.com/actionsfz/v2ray/master/all.yaml
 https://raw.githubusercontent.com/actionsfz/v2ray/refs/heads/master/all.yaml
 https://raw.githubusercontent.com/acymz/AutoVPN/main/data/V2.txt
-https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/README.md
-https://raw.githubusercontent.com/aiboboxx/v2rayfree/refs/heads/main/README.md
 https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml
 https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/main/Splitted-By-Protocol/ss.txt
@@ -113,8 +111,6 @@ https://raw.githubusercontent.com/amir-reza-bijandi/v2ray-configs/main/README.md
 https://raw.githubusercontent.com/amir-reza-bijandi/v2ray-configs/main/clash.yaml
 https://raw.githubusercontent.com/free-nodes/clashfree/master/README.md
 https://raw.githubusercontent.com/nyeinkokoaung404/V2ray-Configs/main/All_Configs_Sub.txt
-https://raw.githubusercontent.com/free-nodes/v2rayfree/main/README.md
-https://raw.githubusercontent.com/free-nodes/v2rayfree/main/sub
 https://raw.githubusercontent.com/jifeng250/free-nodes/main/clash.yaml
 https://raw.githubusercontent.com/share-daily/node/main/clash.yaml
 https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/clash.yaml
@@ -152,3 +148,5 @@ https://raw.githubusercontent.com/nodesradar/nodesradar-ru/main/README.md
 https://raw.githubusercontent.com/nodesradar/nodesradar-fa/main/README.md
 https://raw.githubusercontent.com/nodesradar/nodesradar-en/main/README.md
 https://raw.githubusercontent.com/longyang1233/free-nodes-sub/main/clash.yaml
+https://raw.githubusercontent.com/guo0914/Free-Node/main/v2ray.txt
+https://raw.githubusercontent.com/guo0914/Free-Node/main/clash.yaml
