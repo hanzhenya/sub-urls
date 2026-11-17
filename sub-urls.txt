@@ -1,5 +1,5 @@
 # sub-urls 订阅源清单 —— HPNAs 定时自动维护
-# 更新: 2026-11-17 22:50:41
+# 更新: 2026-11-17 22:54:53
 https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/server.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/clashmeta.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/nodev2ray.txt
@@ -30,7 +30,6 @@ https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml
 https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/main/Splitted-By-Protocol/ss.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/main/Splitted-By-Protocol/trojan.txt
-https://raw.githubusercontent.com/barry-far/V2ray-Config/main/Splitted-By-Protocol/vless.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/main/Splitted-By-Protocol/vmess.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/main/Sub1.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/main/Sub10.txt
@@ -73,12 +72,10 @@ https://raw.githubusercontent.com/mgit0001/test_clash/main/heima.txt
 https://raw.githubusercontent.com/mheidari98/.proxy/main/all
 https://raw.githubusercontent.com/peacefish/nodefree/main/sub/proxy_cf.yaml
 https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.meta.yml
-https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt
 https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.yml
 https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/snippets/nodes.meta.yml
 https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
 https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt
-https://raw.githubusercontent.com/shahidbhutta/Clash/main/Router
 https://raw.githubusercontent.com/shaoyouvip/free/main/mihomo.yaml
 https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/all.yaml
 https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/base64.txt
