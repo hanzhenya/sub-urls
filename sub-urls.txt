@@ -1,5 +1,5 @@
 # sub-urls 订阅源清单 —— HPNAs 定时自动维护
-# 更新: 2026-11-17 23:07:37
+# 更新: 2026-11-20 03:30:39
 https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/server.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/clashmeta.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/nodev2ray.txt
@@ -137,3 +137,17 @@ https://raw.githubusercontent.com/nichecer/clash-node-share/main/clash.yaml
 https://raw.githubusercontent.com/v2raydog-node/free-nodes/main/clash.yaml
 https://raw.githubusercontent.com/v2raydog-node/free-nodes/main/v2ray.txt
 https://raw.githubusercontent.com/v2raydog-node/free-nodes/main/nodes.txt
+https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/README.md
+https://raw.githubusercontent.com/gfpcom/free-proxy-list/main/README.md
+https://raw.githubusercontent.com/lerjtl/Testfree/main/README.md
+https://raw.githubusercontent.com/haiwanai/free-nodes/main/sub.txt
+https://raw.githubusercontent.com/junjun266/FreeProxyGo/main/README.md
+https://raw.githubusercontent.com/nodesradar/nodesradar-es/main/README.md
+https://raw.githubusercontent.com/nodesradar/nodesradar-my/main/README.md
+https://raw.githubusercontent.com/nodesradar/nodesradar-id/main/README.md
+https://raw.githubusercontent.com/nodesradar/nodesradar-vi/main/README.md
+https://raw.githubusercontent.com/nodesradar/nodesradar-ur/main/README.md
+https://raw.githubusercontent.com/cbusifabcap/daily_free_vpn/main/README.md
+https://raw.githubusercontent.com/freeVpnMan/abc-configs-free-vpn-proxy/main/README.md
+https://raw.githubusercontent.com/nodesradar/nodesradar-en/main/README.md
+https://raw.githubusercontent.com/free-nodes/clashfree/main/README.md
